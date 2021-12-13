@@ -1,0 +1,7 @@
+#SampleID	plate	barcode	organism	Name	pH	Temp	EC	TDS	DO
+#q2:types	categorical	categorical	categorical	categorical	numeric	numeric	numeric	numeric	numeric
+YB13	Plate3	TCATGTGAACGA	cenote	Nenufar	5.8	25.0	7.17	0.46	0.77
+YBO4	Plate3	TCTCCGTTCCCT	cenote	Aguada	7.7	27.5	0.34	0.22	13.8
+YB08	Plate3	TCTGAATGGTAG	cenote	Leona Vicario	7.9	29.7	0.25	0.16	19.8
+YB03	Plate3	CATCGTTGGTCG	cenote	Acuario	8.1	26.4	0.25	0.17	9.6
+MX.01	Plate4	TCTCTACCACTC	cenote	Chen-ha	7.1	22.67	1.24	0.65	7.83
